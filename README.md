@@ -2,7 +2,7 @@
 
 ### 🎓 Estudante de Sistemas para Internet @ IFPB | Futuro Mestrando
 
-Sou um desenvolvedor apaixonado por transformar código em soluções eficientes. Atualmente estou no **3º período** de **TSI no IFPB**, com foco total em desenvolvimento Web e pesquisa acadêmica.
+Sou um desenvolvedor apaixonado por transformar código em soluções eficientes. Atualmente estou no **4º período** de **TSI no IFPB**, com foco total em desenvolvimento Web e pesquisa acadêmica.
 
 Meu objetivo é unir a engenharia de software prática com a profundidade da ciência da computação, visando um futuro ingresso no **Mestrado**.
 
