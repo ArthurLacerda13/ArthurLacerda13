@@ -1,63 +1,28 @@
-# Olá, eu sou o Arthur! 👋
+# Arthur Lacerda
 
-### 🎓 Estudante de Sistemas para Internet @ IFPB | Futuro Mestrando
+Estudante de Sistemas para Internet no IFPB (João Pessoa), com conclusão prevista para 2027. Desenvolvo para a web com Python/Django e Next.js, e gosto de banco de dados e otimização de consultas. Pretendo seguir para o mestrado.
 
-Sou um desenvolvedor apaixonado por transformar código em soluções eficientes. Atualmente estou no **4º período** de **TSI no IFPB**, com foco total em desenvolvimento Web e pesquisa acadêmica.
+## Stack
 
-Meu objetivo é unir a engenharia de software prática com a profundidade da ciência da computação, visando um futuro ingresso no **Mestrado**.
+Python, Django, JavaScript, TypeScript, React, Next.js, Java (Spring Boot), Angular, PostgreSQL, MySQL, Supabase, Git, Figma
 
----
+## Projetos
 
-### 🛠️ Minha Caixa de Ferramentas
+**Portal JES** · Python, Django, PostgreSQL
+Sistema web para gerenciar os Jogos do Ensino Superior: atletas, atléticas, esportes, grupos, partidas e chaveamento, com login por matrícula e papéis de usuário (admin, capitão, moderador). Ideia minha, desenvolvida em equipe com o IFPB. Software registrado no INPI (BR512026005472-9).
 
-Tenho uma base sólida em algoritmos e lógica, aplicada às tecnologias modernas de mercado:
+**IHGP** · Django
+Redesign do site do Instituto Histórico e Geográfico Paraibano, em produção desde setembro de 2026. Também desenvolvi uma ferramenta que cataloga livros a partir de fotos usando o Gemini Vision, validando os dados e evitando duplicatas antes de gravar no banco, e o armazenamento dos PDFs digitalizados do acervo em S3.
 
-**Linguagens & Scripting:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+**TrackFieldVolei** · MVP
+Gestão de torneios de vôlei de praia: chaveamento e súmula digital para os árbitros, com os resultados publicados em tempo real para torcida, atletas e organização.
 
-**Frameworks & Libs:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Arthur-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-</div>
+## Acadêmico
 
-**Banco de Dados:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Arthur-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
+- Residência em Games Digitais (IFPB, projeto MCTI-Softex), 1ª turma, 2026–2027
+- Monitor de Introdução à Programação (2025.1) e de Banco de Dados 1 (2026.1), IFPB
+- Formação complementar: PNAAT (Embarcados, IoT e IA na Borda), Geração Caldeira (IA/Dados), Fundamentos de IA (SENAI-SP), Computação Quântica
 
-**Ferramentas:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Arthur-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
+## Contato
 
----
-
-### 📚 Destaques Acadêmicos
-* **Monitoria:** Atuei como monitor na disciplina de Introdução à Programação (Eng. Software) [2025.1].
-* **Desempenho:** Foco em excelência acadêmica (CR ~90), com domínio em Estruturas de Dados e Linguagens de Script.
-* **Interesses de Pesquisa:** Desenvolvimento Web, Banco de Dados, Otimização de Algoritmos.
-
----
-
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurLacerda13&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true" />
-  
-
-</div>
-
----
-
-### 📫 Contato
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurlacerda13)](https://www.linkedin.com/in/arthurlacerda13)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paraadonai.lacerda1@gmail.com)](mailto:paraadonai.lacerda1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arthurlacerda13) · almeida.lacerda@academico.ifpb.edu.br
